@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+main(){
+
+int matric_marks;
+int inter_marks;
+int ecat_marks;
+float aggregate;
+string name;
+
+cout<<"enter your name";
+cin>> name;
+cout<<"eneter your matric marks";
+cin>> matric_marks;
+cout<<"enter your inter marks";
+cin>> inter_marks;
+
+
+}

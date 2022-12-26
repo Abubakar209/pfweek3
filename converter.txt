@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+main(){
+
+int dollar;
+int rupees=200;
+int result;
+cout<<"enter your price in Dollar";
+cin>> dollar;
+result=rupees*dollar;
+cout<<"total amount inn rupees"<<result;
+
+
+
+}
